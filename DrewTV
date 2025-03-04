@@ -122,8 +122,8 @@ https://absp-live.akamaized.net/dash/live/2099526/gmanw/manifest.mpd|Referer=htt
 #EXTINF:-1 tvg-id="hollypop" tvg-name="HALLYPOP" tvg-logo="https://i.imgur.com/P4FuPON.jpg" group-title="🇵🇭 KAPUSO CHANNELS",HALLYPOP
 https://jungotvstream.chanall.tv/jungotv/hallypop/playlist_1080p.m3u8
 
-#EXTINF:-1 tvg-id="iheartmovies" tvg-name="HALLYPOP" tvg-logo="https://i.imgur.com/P4FuPON.jpg" group-title="🇵🇭 KAPUSO CHANNELS",I❤️MOVIES
+#EXTINF:-1 tvg-id="iheartmovies" tvg-name="HALLYPOP" tvg-logo="https://i.imgur.com/YzH4LYK.png" group-title="🇵🇭 KAPUSO CHANNELS",I❤️MOVIES
 http://tvnijuan.net:38081/ryan/ry@n/608
 
-#EXTINF:-1 tvg-id="heartofasia" tvg-name="HALLYPOP" tvg-logo="https://i.imgur.com/P4FuPON.jpg" group-title="🇵🇭 KAPUSO CHANNELS",HEART OF ASIA
+#EXTINF:-1 tvg-id="heartofasia" tvg-name="HALLYPOP" tvg-logo="https://i.imgur.com/BO7hsNb.png" group-title="🇵🇭 KAPUSO CHANNELS",HEART OF ASIA
 http://tvnijuan.net:38081/ryan/ry@n/609
