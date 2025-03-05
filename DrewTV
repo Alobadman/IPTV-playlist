@@ -133,6 +133,8 @@ http://tvnijuan.net:38081/ryan/ry@n/608
 #EXTINF:-1 tvg-id="heartofasia" tvg-name="HALLYPOP" tvg-logo="https://i.imgur.com/BO7hsNb.png" group-title="🇵🇭 KAPUSO CHANNELS",HEART OF ASIA
 http://tvnijuan.net:38081/ryan/ry@n/609
 
+############################################################### CIGNAL LOCAL #####################################################################
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="alltvph1" tvg-name="ALL TV" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",ALL TV
