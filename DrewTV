@@ -137,87 +137,87 @@ http://tvnijuan.net:38081/ryan/ry@n/609
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="alltvph1" tvg-name="ALL TV" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",ALL TV
+#EXTINF:-1 tvg-id="alltvph1" tvg-name="ALL TV" tvg-logo="https://i.imgur.com/4zZlBxg.png" group-title="🇵🇭 CIGNAL LOCAL",ALL TV
 http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="bilyocha1" tvg-name="BILYONARYO CHANNEL (CON)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",BILYONARYO CHANNEL (CON)
+#EXTINF:-1 tvg-id="bilyocha1" tvg-name="BILYONARYO CHANNEL (CON)" tvg-logo="https://i.imgur.com/VZTzZHg.png" group-title="🇵🇭 CIGNAL LOCAL",BILYONARYO CHANNEL (CON)
 http://143.44.136.113:6910/001/2/ch00000090990000001124/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
-#EXTINF:-1 tvg-id="bilyocha2" tvg-name="BILYONARYO CHANNEL (CIG)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",BILYONARYO CHANNEL (CIG)
+#EXTINF:-1 tvg-id="bilyocha2" tvg-name="BILYONARYO CHANNEL (CIG)" tvg-logo="https://i.imgur.com/VZTzZHg.png" group-title="🇵🇭 CIGNAL LOCAL",BILYONARYO CHANNEL (CIG)
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="tv5ph1" tvg-name="TV5 HD (CON)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",TV5 HD (CON)
+#EXTINF:-1 tvg-id="tv5ph1" tvg-name="TV5 HD (CON)" tvg-logo="https://i.imgur.com/1NPFbKE.png" group-title="🇵🇭 CIGNAL LOCAL",TV5 HD (CON)
 http://143.44.136.111:6910/001/2/ch00000090990000001088/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-#EXTINF:-1 tvg-id="tv5ph2" tvg-name="TV5 HD (CIG)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",TV5 HD (CIG)
+#EXTINF:-1 tvg-id="tv5ph2" tvg-name="TV5 HD (CIG)" tvg-logo="https://i.imgur.com/1NPFbKE.png" group-title="🇵🇭 CIGNAL LOCAL",TV5 HD (CIG)
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="a2z1" tvg-name="A2Z (CON)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",A2Z (CON)
+#EXTINF:-1 tvg-id="a2z1" tvg-name="A2Z (CON)" tvg-logo="https://i.imgur.com/Gmf3j9D.png" group-title="🇵🇭 CIGNAL LOCAL",A2Z (CON)
 http://143.44.136.113:6910/001/2/ch00000090990000001087/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
-#EXTINF:-1 tvg-id="a2z2" tvg-name="A2Z (CIG)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",A2Z (CIG)
+#EXTINF:-1 tvg-id="a2z2" tvg-name="A2Z (CIG)" tvg-logo="https://i.imgur.com/Gmf3j9D.png" group-title="🇵🇭 CIGNAL LOCAL",A2Z (CIG)
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="net25" tvg-name="NET25" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",NET25
+#EXTINF:-1 tvg-id="net25" tvg-name="NET25" tvg-logo="https://i.imgur.com/8lf1uvs.png" group-title="🇵🇭 CIGNAL LOCAL",NET25
 http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="ibc1ph" tvg-name="IBC (CON)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",IBC (CON)
+#EXTINF:-1 tvg-id="ibc1ph" tvg-name="IBC (CON)" tvg-logo="https://i.imgur.com/fQlfvpU.png" group-title="🇵🇭 CIGNAL LOCAL",IBC (CON)
 http://143.44.136.111:6910/001/2/ch00000090990000001089/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
-#EXTINF:-1 tvg-id="ibc2ph" tvg-name="IBC (CIG)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",IBC (CIG)
+#EXTINF:-1 tvg-id="ibc2ph" tvg-name="IBC (CIG)" tvg-logo="https://i.imgur.com/fQlfvpU.png" group-title="🇵🇭 CIGNAL LOCAL",IBC (CIG)
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="untvph" tvg-name="UNTV" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",UNTV
+#EXTINF:-1 tvg-id="untvph" tvg-name="UNTV" tvg-logo="https://i.imgur.com/ZDbdkeG.png" group-title="🇵🇭 CIGNAL LOCAL",UNTV
 http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="ptv41ph" tvg-name="PTV4 (CON)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",PTV4 (CON)
+#EXTINF:-1 tvg-id="ptv41ph" tvg-name="PTV4 (CON)" tvg-logo="https://i.imgur.com/mWn6VbV.png" group-title="🇵🇭 CIGNAL LOCAL",PTV4 (CON)
 http://143.44.136.113:6910/001/2/ch00000090990000001086/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
-#EXTINF:-1 tvg-id="ptv42ph" tvg-name="PTV4 (CIG)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",PTV4 (CIG)
+#EXTINF:-1 tvg-id="ptv42ph" tvg-name="PTV4 (CIG)" tvg-logo="https://i.imgur.com/mWn6VbV.png" group-title="🇵🇭 CIGNAL LOCAL",PTV4 (CIG)
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="dzrhtv" tvg-name="DZRH TV" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",DZRH TV
+#EXTINF:-1 tvg-id="dzrhtv" tvg-name="DZRH TV" tvg-logo="https://i.imgur.com/Jr1RSn2.png" group-title="🇵🇭 CIGNAL LOCAL",DZRH TV
 http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="knowlegecha1" tvg-name="KNOWLEDGE CHANNELS (CON)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",KNOWLEDGE CHANNELS (CON)
+#EXTINF:-1 tvg-id="knowlegecha1" tvg-name="KNOWLEDGE CHANNELS (CON)" tvg-logo="https://i.imgur.com/EnhR9LE.png" group-title="🇵🇭 CIGNAL LOCAL",KNOWLEDGE CHANNELS (CON)
 http://143.44.136.110:6910/001/2/ch00000090990000001340/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
-#EXTINF:-1 tvg-id="knowlegecha2" tvg-name="KNOWLEDGE CHANNELS (CIG)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",KNOWLEDGE CHANNELS (CIG)
+#EXTINF:-1 tvg-id="knowlegecha2" tvg-name="KNOWLEDGE CHANNELS (CIG)" tvg-logo="https://i.imgur.com/EnhR9LE.png" group-title="🇵🇭 CIGNAL LOCAL",KNOWLEDGE CHANNELS (CIG)
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df
-#EXTINF:-1 tvg-id="depedtv" tvg-name="DEPED TV" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",DEPED TV
+#EXTINF:-1 tvg-id="depedtv" tvg-name="DEPED TV" tvg-logo="https://i.imgur.com/JvTO1hM.png" group-title="🇵🇭 CIGNAL LOCAL",DEPED TV
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
