@@ -1,4 +1,7 @@
 #EXTM3U url-tvg="https://opop.pro/PbLV4EjHVvECPd"
+
+############################################################### TFC CHANNELS #####################################################################
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 #EXTINF:-1 tvg-id="kapcha" tvg-name="KAPAMILYA (TFC)" tvg-logo="https://i.imgur.com/lOqmX5P.png" group-title="🇵🇭 TFC CHANNELS",KAPAMILYA (TFC)
@@ -78,6 +81,8 @@ https://abslive.akamaized.net/dash/live/2028025/mor/manifest.mpd|Referer=https:/
 #KODIPROP:inputstream.adaptive.license_key=141288d93b0f4f89a3f614a365671411:ccd2e8162c5fe3f6d5207fb941c09686
 #EXTINF:-1 tvg-id="knowchantfc" tvg-name="KNOWLEDGE CHANNELS" tvg-logo="https://i.imgur.com/EnhR9LE.png" group-title="🇵🇭 TFC CHANNELS",KNOWLEDGE CHANNELS
 https://abslive.akamaized.net/dash/live/2028189/kc/manifest.mpd|Referer=https://www.iwanttfc.com/
+
+############################################################### KAPUSO CHANNELS #####################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
@@ -255,28 +260,28 @@ http://143.44.136.110:6910/001/2/ch00000090990000001154/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="oneph1" tvg-name="ONE PH (CON)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",ONE PH (CON)
+#EXTINF:-1 tvg-id="oneph1" tvg-name="ONE PH (CON)" tvg-logo="https://i.imgur.com/qhWRLtD.png" group-title="🇵🇭 CIGNAL LOCAL",ONE PH (CON)
 http://143.44.136.110:6910/001/2/ch00000090990000001198/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
-#EXTINF:-1 tvg-id="oneph2" tvg-name="ONE PH (CIG)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",ONE PH (CIG)
+#EXTINF:-1 tvg-id="oneph2" tvg-name="ONE PH (CIG)" tvg-logo="https://i.imgur.com/qhWRLtD.png" group-title="🇵🇭 CIGNAL LOCAL",ONE PH (CIG)
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="onenews1" tvg-name="ONE NEWS (CON)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",ONE NEWS (CON)
+#EXTINF:-1 tvg-id="onenews1" tvg-name="ONE NEWS (CON)" tvg-logo="https://i.imgur.com/kvWdIBi.png" group-title="🇵🇭 CIGNAL LOCAL",ONE NEWS (CON)
 http://143.44.136.110:6910/001/2/ch00000090990000001084/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
-#EXTINF:-1 tvg-id="onenews2" tvg-name="ONE NEWS (CIG)" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",ONE NEWS (CIG)
+#EXTINF:-1 tvg-id="onenews2" tvg-name="ONE NEWS (CIG)" tvg-logo="https://i.imgur.com/kvWdIBi.png" group-title="🇵🇭 CIGNAL LOCAL",ONE NEWS (CIG)
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
-#EXTINF:-1 tvg-id="truefmph" tvg-name="TRUE FM" tvg-logo="https://i.imgur.com/RpPXDkz.png" group-title="🇵🇭 CIGNAL LOCAL",TRUE FM
+#EXTINF:-1 tvg-id="truefmph" tvg-name="TRUE FM" tvg-logo="https://i.imgur.com/KFvI2AJ.png" group-title="🇵🇭 CIGNAL LOCAL",TRUE FM
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
-#EXTINF:-1 tvg-id="dzbbsuper" tvg-name="DZBB SUPER RAYDO" tvg-logo="https://i.imgur.com/RpPXDkz.jpg" group-title="🇵🇭 CIGNAL LOCAL",DZBB SUPER RAYDO
+#EXTINF:-1 tvg-id="dzbbsuper" tvg-name="DZBB SUPER RAYDO" tvg-logo="https://i.imgur.com/rv2Xk9P.png" group-title="🇵🇭 CIGNAL LOCAL",DZBB SUPER RAYDO
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
