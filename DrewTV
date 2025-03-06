@@ -634,7 +634,7 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="retrocrush-x" tvg-name="RETRO CRUSH" tvg-logo="https://i.imgur.com/OfKKbHg.png" group-title="🚸 KIDS TV",RETRO CRUSH
-https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
+https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/2/profileManifest.m3u8
 
 #EXTINF:-1 tvg-id="disneychannel1-x" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/X31NebO.png" group-title="🚸 KIDS TV",DISNEY CHANNEL
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
