@@ -645,6 +645,10 @@ http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="disneyxd1-x" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/RfN6OXU.png" group-title="🚸 KIDS TV",DISNEY XD
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
+#EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/Oe6zMdZ.png" group-title="🚸 KIDS TV",NICKTOONS
+http://143.244.60.30/NICKTOONS/index.m3u8
+
+
 
 
 
