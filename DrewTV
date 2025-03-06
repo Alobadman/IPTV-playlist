@@ -582,7 +582,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001178/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="cartoonntwrk2" tvg-name="CARTOON NETWORK (CIG)" tvg-logo="https://i.imgur.com/x40M5O2.png" group-title="🚸 KIDS TV",CARTOON NETWORK (CIG)
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 
-#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-name="CARTOON NETWORK (CIG)" tvg-logo="https://i.imgur.com/x40M5O2.png" group-title="🚸 KIDS TV",CARTOON NETWORK (US)
+#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-name="CARTOON NETWORK (US)" tvg-logo="https://i.imgur.com/x40M5O2.png" group-title="🚸 KIDS TV",CARTOON NETWORK (US)
 https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -608,9 +608,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="pbskids-x" tvg-name="PBS KIDS" tvg-logo="https://i.imgur.com/xhmWQXs.png" group-title="🚸 KIDS TV",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pbskids-x" tvg-name="PBS KIDS" tvg-logo="https://i.imgur.com/pW0Q73i.png" group-title="🚸 KIDS TV",CARTOONITO
-https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
-
 #EXTINF:-1 tvg-id="mrbean-x" tvg-name="MR BEAN" tvg-logo="https://i.imgur.com/zKGnFe4.png" group-title="🚸 KIDS TV",MR BEAN
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
@@ -635,8 +632,12 @@ http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/Oe6zMdZ.png" group-title="🚸 KIDS TV",NICKTOONS
 http://143.244.60.30/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-id="TeenNick.-.Eastern.us" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/34zpfZP.png" group-title="🚸 KIDS TV",TEEN NICK
+#EXTINF:-1 tvg-id="TeenNick.-.Eastern.us" tvg-name="TEEN NICK" tvg-logo="https://i.imgur.com/34zpfZP.png" group-title="🚸 KIDS TV",TEEN NICK
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:C6:EB:EC&stream=858754&extension=ts&play_token=4fV9KB0Io4
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIME ALL DAY" tvg-logo="https://i.imgur.com/tDsc4oC.png" group-title="🚸 KIDS TV",ANIME ALL DAY
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
+
 
 
 
