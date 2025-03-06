@@ -582,47 +582,34 @@ http://143.44.136.110:6910/001/2/ch00000090990000001178/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="cartoonntwrk2" tvg-name="CARTOON NETWORK (CIG)" tvg-logo="https://i.imgur.com/x40M5O2.png" group-title="🚸 KIDS TV",CARTOON NETWORK (CIG)
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 
+#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-name="CARTOON NETWORK (CIG)" tvg-logo="https://i.imgur.com/x40M5O2.png" group-title="🚸 KIDS TV",CARTOON NETWORK (US)
+https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
 #EXTINF:-1 tvg-id="moonbugkids-x" tvg-name="MOONBUG KIDS" tvg-logo="https://i.imgur.com/NImUKpt.png" group-title="🚸 KIDS TV",MOONBUG KIDS
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2ea5ed9636044a1b0892ef7dfe4e487:2a70fd0d62c76ffa2e24d585c5a3d556
-#EXTINF:-1 tvg-id="pawpatrol" tvg-name="PAW PATROL (US VPN)" tvg-logo="https://i.imgur.com/ZDYzlVn.png" group-title="🚸 KIDS TV",PAW PATROL (US VPN)
-https://1fbc5dgfab4h.airspace-cdn.cbsivideo.com/out/v1/cbd3763ec7ed41c59fcbe00b0b0c36f3/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5841dc342f14c3bbc9474cc93a4cc99:003285785b2ec038cf7707eee03aeafb
-#EXTINF:-1 tvg-id="spongebob" tvg-name="SPONGEBOB (US VPN)" tvg-logo="https://i.imgur.com/obCjyFl.png" group-title="🚸 KIDS TV",SPONGEBOB (US VPN)
-https://188105e06331.airspace-cdn.cbsivideo.com/out/v1/1efd72b8cbb949d2a8265c4d5004dfd1/manifest.mpd
-
 #EXTINF:-1 tvg-id="toonzkids" tvg-name="TOONZ KIDS" tvg-logo="https://i.imgur.com/c50n591.png" group-title="🚸 KIDS TV",TOONZ KIDS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
-
-#EXTINF:-1 tvg-id="horee-x" tvg-name="HOREE TV" tvg-logo="https://i.imgur.com/Nv9e3ou.png" group-title="🚸 KIDS TV",HOREE TV
-https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8
 
 #EXTINF:-1 tvg-id="babyshark-x" tvg-name="BABY SHARK" tvg-logo="https://i.imgur.com/nmWfAYF.png" group-title="🚸 KIDS TV",BABY SHARK
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8?ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3623&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=17ded124-30eb-47bc-ab57-ddfce3a16599&ads.user_type=visitor&ads.wurl_channel=696
 
-#EXTINF:-1 tvg-id="kidstv" tvg-name="KIDS TV" tvg-logo="https://i.imgur.com/9Jf4vo1.png" group-title="🚸 KIDS TV",KIDS TV
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/ef2a7ee4-f8b6-4eee-b33b-12e649a7ca26/2.m3u8
-
 #EXTINF:-1 tvg-id="boomerang1-x" tvg-name="BOOMERANG 1" tvg-logo="https://i.imgur.com/G8rIJLa.png" group-title="🚸 KIDS TV",BOOMERANG 1
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
-
-#EXTINF:-1 tvg-id="boomerang2-x" tvg-name="BOOMERANG 2" tvg-logo="https://i.imgur.com/G8rIJLa.png" group-title="🚸 KIDS TV",BOOMERANG 2
-https://z88.ubtvfans.com/live/rx3/1214/daaa9313f5db1c24a78505ae4dc9ac84/index.m3u8
 
 #EXTINF:-1 tvg-id="zoomoo-x" tvg-name="ZOO MOO" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="🚸 KIDS TV",ZOO MOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="legokidstv-x" tvg-name="LEGO KIDS TV" tvg-logo="https://i.imgur.com/BzjgqVw.png" group-title="🚸 KIDS TV",LEGO KIDS TV
-https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId=2&feedId=1120-v56&auth-token=1213111&version=sv7.0&deviceId=SDF543&deviceFwVer=4.99&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/60fb01a24795a6000762fe83/3321280/playlist.m3u8?terminate=false&sid=790ae83e-fa31-11ef-bd65-961dd6e09360&deviceDNT=0&deviceLat=48.540000915527344&deviceLon=-123.06999969482422&deviceModel=web&deviceVersion=133.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=f458aff9-bcfe-4d5f-b1f7-97b4da3c4898&appVersion=9.9.0-e2729a4dfa8be2d9d34a4728d266539e8312987f&deviceType=web&deviceMake=edge-chromium&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjczN2FjZTA2LWMwOGMtNGEzOS04NThiLTY0ZDQxNDhiNGRkZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3OTBhZTgzZS1mYTMxLTExZWYtYmQ2NS05NjFkZDZlMDkzNjAiLCJjbGllbnRJUCI6IjY0LjExOS4xMi4xMDciLCJjaXR5IjoiRnJpZGF5IEhhcmJvciIsInBvc3RhbENvZGUiOiI5ODI1MCIsImNvdW50cnkiOiJVUyIsImRtYSI6ODE5LCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6NDguNTQwMDAwOTE1NTI3MzQ0LCJkZXZpY2VMb24iOi0xMjMuMDY5OTk5Njk0ODI0MjIsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzMy4wLjAiLCJkZXZpY2VNYWtlIjoiZWRnZS1jaHJvbWl1bSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjkuMC1lMjcyOWE0ZGZhOGJlMmQ5ZDM0YTQ3MjhkMjY2NTM5ZTgzMTI5ODdmIiwiY2xpZW50SUQiOiJmNDU4YWZmOS1iY2ZlLTRkNWYtYjFmNy05N2I0ZGEzYzQ4OTgiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7Im1hdGNoRXhhY3RJblBocmFzZUVuYWJsZWQiOnRydWUsIm1hdGNoSW5BY3RvcnNCb29zdCI6MjUsIm1hdGNoSW5BY3RvcnNFZGl0RGlzdGFuY2UiOiJBVVRPOjUsMTEiLCJtYXRjaEluQWN0b3JzRW5hYmxlZCI6dHJ1ZSwibWF0Y2hJbkRpcmVjdG9yc0Jvb3N0IjoyNSwibWF0Y2hJbkRpcmVjdG9yc0VkaXREaXN0YW5jZSI6IkFVVE86NSwxMSIsIm1hdGNoSW5EaXJlY3RvcnNFbmFibGVkIjp0cnVlLCJuZXh1c1RpbWVvdXRNcyI6NTAwLCJxdWVyeVN5bm9ueW1zRW5hYmxlZCI6dHJ1ZSwicXVlcnlWZXJzaW9uIjoiaHlicmlkIiwic2VhcmNoUHJveHlFbmhhbmNlbWVudCI6ZmFsc2V9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJYWTYzOTVDSXpBVkNlQjlNY1drRTgxVE16d2hFdXFTT2x2dExJQlAzZU5wNmxrUU5jIiwiZndWY0lEMkNvcHBhIjoiZjQ1OGFmZjktYmNmZS00ZDVmLWIxZjctOTdiNGRhM2M0ODk4IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJmNDU4YWZmOS1iY2ZlLTRkNWYtYjFmNy05N2I0ZGEzYzQ4OTgiLCJmbXNfdmNpZDJ0eXBlIjoibGl2ZXJhbXAiLCJmbXNfcmFtcF9pZCI6IlhZNjM5NUNJekFWQ2VCOU1jV2tFODFUTXp3aEV1cVNPbHZ0TElCUDNlTnA2bGtRTmMiLCJmbXNfaGhfcmFtcF9pZCI6ImhZNjM5NXJFLXA1NWRlTTdyZXZDRjI0RWFHLVlmbWRiLS0zMVViSnQ5NHRLUjFfZ3ciLCJmbXNfYmlkaWR0eXBlIjoiMTAyMyIsIl9md18zUF9VSUQiOiJJREw6QWdOeUhrMHZTOUNOUDIzWnJJakZNS3o4V1dNNTA1Qi1Xd0FIQU1leVg2b2psQkRXenNsMGlxbU8iLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpaalExT0dGbVpqa3RZbU5tWlMwMFpEVm1MV0l4WmpjdE9UZGlOR1JoTTJNME9EazQiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzQxMzEzOTg2LCJpYXQiOjE3NDEyMjc1ODYsImp0aSI6IjExNzA4ZDMzLWRiNDYtNDM4NS1hMjAxLTY0Y2FmZGRmNjg5NyJ9.7xYAredxsaqovq-x3HJu0BSAjCvfjagGIWQ5Hwdwlck&gpp=DBABLA~BVQqAAAAAgA.QA&gpp_sid=7&paln=AQzzBGQEfa-Y9miZ17NLx7FMkns2NRIY_MDkhceTK886d1iggJ3_sA98QkdEezHSIHFNr3Cm1bmYmJ6MwgdIwRhXX31y63T3hGG0C_r4TUOCS4HaWvZ-Op8nVoZDLsVOZsFM714SPNXie3FAUbZejozBoiB6JfBEtmPPKSdcdoosrUvVlvtsQO7TuVU2E625CGNgJWUCZqeypbX15Lcy7Or773dMihsI_BXNDSRkF_BRuNzw2oh4QTz2EJNbfZm6Q65-WDp9WZdLhhZ9G0jAPYcWovWtgBBTaRgLUSlK6uYW8eQ4AAL4z-rGt5vraUUc3mnJ_5iuscVmgyFSyH39rYBW9AKzTTm1jX0M1xs8Y4Agm0C0ARlCPeS_-TY_Qxf8cOvyqpkBb8cRYSYS25nuFQX9X0H0PMrwS8JvJClv0QmAg6y6k3af9747X3robER9foxA40MYriGCA7Wq1UCS-yaMHpNOK7XHHT13NMP1tO6rjxbAd9W83S8zkFDmUuJe9yJyfiTiZH1hCOUZCcHsV9EczvGCPaqs5W_ejl1yHRwcFzfV54bgQREbtxxCpHXMMeCFhOlrud-HHGSZ4K7nFI0uVEBjmpqQdbY_ND6bcSf96bKNgy8jssVAAAlHBSyBr2jsSY6gOWI5XkYjizuLZbj2PSYcarjVDy2KwN8o8iTW7zKNpC9QAB04A5WCSVSCT7qYm-0xtpsPXq7k0kr70lKlAIDqdsUjN3qR0uMXZbXIjsDK6l7tm6u-CKvFd7J5QB4d8sy6KbJe9uSQ0N9VsEtY4QxZaD1Et01G1ALcJq9wRLidtCikp1GELZJBkIiXzk1rC5UArE0nnT50mquxbC4JDVVB0ZAWOVSGnAOxxhr5Hvha-uQV0Jo0xA852WoymdsrA52MrZZdFXHVwTln3akQVXhtoVVgE3eX3NS9gAFbhz-I6yhWoU_wJm_73BkeIJS_hRqBggyK7_anEWv-lCpo5Rr_13Hx4_U5ScOKaOJvV6q3by6DRab4wzPJVFn-AwsJDVkteHvrtgRwimXDmtogXqhGLZ6RbBwtI9-zTTXOV50EFteVzmHE6LgxE4rHXYRtQHE6nnn8PRDrrKbX0CQuTx9QzOgjOOLelLCcR92h8z46KnlMrLmhXKaxoOvfWw3yg38lq_FaNvlFyIg4j9uQoLIJLDqmAqZ6yYIf9XK91Wgzblyov-SEM_gxoPTPuNMFR7nVc8RQVKrUXlU1qI-RGR-2HM1XQpQnAcrJckyH_hKeBsM2Zt9E2OWaz5Y__NkPNfx-teA4l3q2PyVbODTFePAQV4vvvayiPNWlTtTH4CS-1IjISnzL4NtO7jIM-iEnZ-0d4CmKDD6nhrMOcxDbcEAR0tl9WvgVeHwD0ygTGjRUesjn68RVPuCdIxdIrLcSXGjke4YQkLDQ5pLSqJ6BFTYxXMEIfCVSH2ib0oIgyAh1gWem2fPGwZ989Uc6TvGYhhE7MEDMrhjmdObakbtGHQn66aafrCCF2KUeD0o34l0VZnN-KAjhe99vyRm7ZPGzezLAR02yqL1k2t5E1I1RX94Zk3voFm-x0WbuNDfuG7oFPMS51Cy76imzfGhDwtQxg4UC1hpPbrHSw1l2DNQNKIhuzU82CKy2&us_privacy=1YNN&CMCD=mtp%3D96600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%227e36add2-73f2-4590-945f-57b503c37daa%22
 
 #EXTINF:-1 tvg-id="pbskids-x" tvg-name="PBS KIDS" tvg-logo="https://i.imgur.com/xhmWQXs.png" group-title="🚸 KIDS TV",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pbskids-x" tvg-name="PBS KIDS" tvg-logo="https://i.imgur.com/pW0Q73i.png" group-title="🚸 KIDS TV",CARTOONITO
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 
 #EXTINF:-1 tvg-id="mrbean-x" tvg-name="MR BEAN" tvg-logo="https://i.imgur.com/zKGnFe4.png" group-title="🚸 KIDS TV",MR BEAN
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
@@ -642,7 +629,7 @@ http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="disneyjunior1-x" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.imgur.com/ILPJDkK.png" group-title="🚸 KIDS TV",DISNEY JUNIOR
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="disneyxd1-x" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/RfN6OXU.png" group-title="🚸 KIDS TV",DISNEY XD
+#EXTINF:-1 tvg-id="disneyxd1-x" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/MkBnANZ.png" group-title="🚸 KIDS TV",DISNEY XD
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/Oe6zMdZ.png" group-title="🚸 KIDS TV",NICKTOONS
