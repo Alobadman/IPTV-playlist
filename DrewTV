@@ -292,32 +292,32 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="cinemoph" tvg-name="CINEMO PHIL." tvg-logo="https://i.imgur.com/mm9Sw6F.png" group-title="🇵🇭 CONV-CIG MOVIES",CINEMO PHIL.
+#EXTINF:-1 tvg-id="cinemoph" tvg-name="CINEMO PHIL." tvg-logo="https://i.imgur.com/xd8PsQv.png" group-title="🇵🇭 CONV-CIG MOVIES",CINEMO PHIL.
 http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="cinemaoneph" tvg-name="CINEMAONE PHIL." tvg-logo="https://i.imgur.com/mm9Sw6F.png" group-title="🇵🇭 CONV-CIG MOVIES",CINEMAONE PHIL.
+#EXTINF:-1 tvg-id="cinemaoneph" tvg-name="CINEMAONE PHIL." tvg-logo="https://i.imgur.com/ENSHEqH.png" group-title="🇵🇭 CONV-CIG MOVIES",CINEMAONE PHIL.
 http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="vivacinema1" tvg-name="VIVA CINEMA (CON)" tvg-logo="https://i.imgur.com/mm9Sw6F.png" group-title="🇵🇭 CONV-CIG MOVIES",VIVA CINEMA (CON)
+#EXTINF:-1 tvg-id="vivacinema1" tvg-name="VIVA CINEMA (CON)" tvg-logo="https://i.imgur.com/9XBaZPV.png" group-title="🇵🇭 CONV-CIG MOVIES",VIVA CINEMA (CON)
 http://143.44.136.113:6910/001/2/ch00000090990000001079/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
-#EXTINF:-1 tvg-id="vivacinema2" tvg-name="VIVA CINEMA (CIG)" tvg-logo="https://i.imgur.com/mm9Sw6F.png" group-title="🇵🇭 CONV-CIG MOVIES",VIVA CINEMA (CIG)
+#EXTINF:-1 tvg-id="vivacinema2" tvg-name="VIVA CINEMA (CIG)" tvg-logo="https://i.imgur.com/9XBaZPV.png" group-title="🇵🇭 CONV-CIG MOVIES",VIVA CINEMA (CIG)
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="pbo1" tvg-name="PBO (CON)" tvg-logo="https://i.imgur.com/mm9Sw6F.png" group-title="🇵🇭 CONV-CIG MOVIES",PBO (CON)
+#EXTINF:-1 tvg-id="pbo1" tvg-name="PBO (CON)" tvg-logo="https://i.imgur.com/KIr0MX5.png" group-title="🇵🇭 CONV-CIG MOVIES",PBO (CON)
 http://143.44.136.113:6910/001/2/ch00000090990000001078/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
-#EXTINF:-1 tvg-id="pbo2" tvg-name="PBO (CIG)" tvg-logo="https://i.imgur.com/mm9Sw6F.png" group-title="🇵🇭 CONV-CIG MOVIES",PBO (CIG)
+#EXTINF:-1 tvg-id="pbo2" tvg-name="PBO (CIG)" tvg-logo="https://i.imgur.com/KIr0MX5.png" group-title="🇵🇭 CONV-CIG MOVIES",PBO (CIG)
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
 #EXTINF:-1 tvg-id="jungopinoytv" tvg-name="JUNGO TV PINOY" tvg-logo="https://i.imgur.com/bwkA9Q1.png" group-title="🇵🇭 CONV-CIG MOVIES",JUNGO TV PINOY
