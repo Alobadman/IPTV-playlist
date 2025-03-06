@@ -635,6 +635,8 @@ http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/Oe6zMdZ.png" group-title="🚸 KIDS TV",NICKTOONS
 http://143.244.60.30/NICKTOONS/index.m3u8
 
+#EXTINF:-1 tvg-id="TeenNick.-.Eastern.us" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/34zpfZP.png" group-title="🚸 KIDS TV",TEEN NICK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:C6:EB:EC&stream=858754&extension=ts&play_token=4fV9KB0Io4
 
 
 
