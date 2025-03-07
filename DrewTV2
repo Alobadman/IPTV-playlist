@@ -261,6 +261,11 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 #EXTINF:-1 tvg-id="bukotvph" tvg-name="BUKO TV" tvg-logo="https://i.imgur.com/Yj0CI4c.jpg" group-title="🇵🇭 CIGNAL",BUKO TV
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
+#EXTINF:-1 tvg-id="rptvshd" tvg-name="RPTV (CIG)" tvg-logo="https://i.imgur.com/TmHNdEp.png" group-title="🇵🇭 CIGNAL",RPTV (CIG)
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+
 ############################################################### MOVIE CHANNEL #####################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -619,11 +624,6 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/ppvsd197.mpd
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
 #EXTINF:-1 tvg-id="nbaph2" tvg-name="NBA TV PH (CIG)" tvg-logo="https://i.imgur.com/oUqHgMc.png" group-logo="https://i.imgur.com/BrDcy8q.png" group-title="🇵🇭 CIGNAL SPORTS",NBA TV PH (CIG)
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
-#EXTINF:-1 tvg-id="rptvshd" tvg-name="RPTV (CIG)" tvg-logo="https://i.imgur.com/oUqHgMc.png" group-title="🇵🇭 CIGNAL SPORTS",RPTV (CIG)
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
@@ -1381,8 +1381,8 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1140iamg)/m
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00201afe2ce399852cd0c29a3c215ac8:f8e352189a5fc42e076e88c7be472426
-#EXTINF:-1 tvg-id="peacircle" tvg-name="Circle" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",Circle
-https://ctl.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc125fnbp0)/master.mpd
+#EXTINF:-1 tvg-id="peacircle" tvg-name="Circle Country" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",Circle Country
+https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic/Content/CMAF_CTR-4s-v2/Live/channel(lc125fnbp0)/master_2hr.mpd?c3.ri=5003917636885262936&aws.sessionId=dce41a8a-a928-4b04-8238-3a8ec872fa06
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020a9dd35db0d63bc03e2d10bb46d58:a49b35665fee8b7e16eb366d8ef9c276
@@ -1392,7 +1392,7 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1051jtk0)/m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"00452a9948df308f155feb8f560b0dd0":"0b4464c4dcb80b6167dbd319f8227977"}
-#EXTINF:-1 tvg-id="" tvg-name="NBC KING 5" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",NBC KING 5
+#EXTINF:-1 tvg-id="" tvg-name="NBC KING 5" tvg-logo="https://i.imgur.com/Ytrnz9X.png" group-title="🇺🇸 PEACOCK TV",KING 5
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(king)/master.mpd?c3.ri=5005887962098569615
 
 
