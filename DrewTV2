@@ -1166,7 +1166,7 @@ http://fl5.moveonjoy.com/NBA_14/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-#EXTINF:-1 tvg-id="wwenetwhd" tvg-name="WWE Network" tvg-logo="https://i.imgur.com/yARg9YL.png" group-title="🇺🇸 PEACOCK TV",WWE Network
+#EXTINF:-1 tvg-id="wwenetwhd" tvg-name="WWE Network" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",WWE Network
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1194,6 +1194,35 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc124phhny
 #EXTINF:-1 tvg-id="pealovenature" tvg-name="LOVE NATURE" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",LOVE NATURE
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc135mf424)/master_2min.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0614fa8aeda83a71b62468b6c3a43a66:04c8043c95271775b9869915c9bbe814
+#EXTINF:-1 tvg-id="nbceeast" tvg-name="E! EAST" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",E! EAST
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(e-east)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49620653d12c39a4811daa3751855dd3:0bb52944951a81a2a97c2aa596344529
+#EXTINF:-1 tvg-id="nbcewest" tvg-name="E! WEST" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",E! WEST
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(e-west)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92aebd5d3ea9373ca9b5a41701f2c789:31dcdaa88f37fa805068681e9494e260
+#EXTINF:-1 tvg-id="nbcsyfyeast" tvg-name="SYFY EAST" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",SYFY EAST
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(syfy-east)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44262667a10236d8a8286580130a1aa3:23c6498c2d58874218f48f5c9b8ee098
+#EXTINF:-1 tvg-id="nbcsyfywest" tvg-name="SYFY WEST" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",SYFY WEST
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(syfy-west)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=91bf2d81b9e13701ac667915641121b8:d0cc2082132b430ad5a8bc4f31c9b772
+#EXTINF:-1 tvg-id="nbcusaeast" tvg-name="USA EAST" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",USA EAST
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+#EXTINF:-1 tvg-id="nbcusawest" tvg-name="USA WEST" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",USA WEST
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00207278b6ffcd0509d22d9cc88b0dbc:bfc50c28b15c2820b80e68a49ff26976
@@ -1241,9 +1270,59 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc13843l4l)/master_2min.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e011cf3f14af3182bb74bfe1da69c9f0:a635feda61b68add06f3e3b296f47fa4
+#EXTINF:-1 tvg-id="nbcoxygeneast" tvg-name="OXYGEN EAST" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",OXYGEN EAST
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(oxygen-east)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=06356aa7144134c08bb0dc25cf28c1ce:7e50f2896f3f7fc502d6e309d81d832c
+#EXTINF:-1 tvg-id="nbcoxygenwest" tvg-name="OXYGEN WEST" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",OXYGEN WEST
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(oxygen-west)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020be41438d79a614ad87270e641598:29cad8bd3fbbf5909792d4f92cf3ba59
 #EXTINF:-1 tvg-id="pealoltv" tvg-name="LOL TV" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",LOL TV
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1224oy9g)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045113aca7f865e0d5f7d924dc95105:77b30cd75fcf8b51dce3b53377c3e172
+#EXTINF:-1 tvg-id="lawcrimenet" tvg-name="Law & Crime Network" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",Law & Crime Network
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(lc1349acq4)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00458b47421b4618a2c457cb6df4ce46:774ed6dbf971e1a02591a6c1cb08676a
+#EXTINF:-1 tvg-id="peatodayallday" tvg-name="TODAY All Day" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",TODAY All Day
+https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(vc120ri5pb)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00457fb7f2ae6bed287b78361bb259a0:bc4c2401594e0713f2045306ef350c1e
+#EXTINF:-1 tvg-id="peatopgear" tvg-name="Top Gear" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",Top Gear
+https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(lc124p21qf)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002082bbeba36536625edbabc33308b9:0bd9923f10901ec2ab5d360ee4132663
+#EXTINF:-1 tvg-id="peadchicago" tvg-name="NBC Chicago News" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",NBC Chicago News
+https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(lc121nd4w6)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045c783ec81e7b8b83d9fac6238fb0e:92b1b048dc1db8398bfd17c0f99ef9d0
+#EXTINF:-1 tvg-id="peanewyork" tvg-name="NBC New York News" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",NBC New York News
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1126fksa)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045e311cbff64b1212d82868f16dcfe:91379de940442eed91ef3a78ebda0af6
+#EXTINF:-1 tvg-id="peaboston" tvg-name="NBC Boston News" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",NBC Boston News
+https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(lc108c4guk)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=004548f067c8d06e670cd1f68585b4e2:67107d7e744104deacb7507fa5001a8c
+#EXTINF:-1 tvg-id="peaflorida" tvg-name="NBC South Florida News" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",NBC South Florida News
+https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(lc129a7cya)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045fb97217f49720c18b96f593f1135:7f3818582be846bca9513208b506bf9a
+#EXTINF:-1 tvg-id="peaphily" tvg-name="NBC Philadelphia News" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",NBC Philadelphia News
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(lc120ewbm0)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020c13c3690d99ce5dbe3ea50725afb:c432e72a86293d935174b1144290bde7
@@ -1256,6 +1335,11 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc103ow4ej)/m
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00458d2e45a6cfd1f210b93f3ced747e:7e0f295d6819bbd6c887c19b15ef4b64
+#EXTINF:-1 tvg-id="nbclxhome" tvg-name="NBC LX HOME" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",NBC LX HOME
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(lc1051jtk0)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00454fa0c7dc0328cda23d73a8ce1b5b:35566ad1ab8e50da15d639710c0dc5ca
 #EXTINF:-1 tvg-id="nbc4newyork" tvg-name="4 NEW YORK" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",4 NEW YORK
 https://cmcs.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wcau)/master.mpd
@@ -1266,9 +1350,39 @@ https://cmcs.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wcau)/mas
 https://cmcs.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knsd)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3fef8ce2f593af0a29f6e4a522c6555:7fe0a488fb26afaba05049eead0eb24e
+#EXTINF:-1 tvg-id="nbcnewsnow" tvg-name="NEWS NOW" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",NEWS NOW
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(nnn)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=004561b5440b7879d37d01c99a158924:8fb0218456fedf3c8a3da8c88f6177c7
 #EXTINF:-1 tvg-id="nbcwnbc" tvg-name="WNBC" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",WNBC
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wnbc)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c54b3a11ae48391eb91c7832c207fe46:75f9cafc4c9c02eacb067e802669cbf4
+#EXTINF:-1 tvg-id="nbccnbc" tvg-name="CNBC" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",CNBC
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(cnbc)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fbd8a75e83336cdaba616c677f3bae9:936b15f1bfeb31c581d16ab2ab83cd65
+#EXTINF:-1 tvg-id="nbcmsnbc" tvg-name="MSNBC" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",MSNBC
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(msnbc)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020389eb7247c1460b7e659d8dee552:76f43fa9d6eaae748b8adf6ae53ce75a
+#EXTINF:-1 tvg-id="peashawkbox" tvg-name="Squawk Box" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",Squawk Box
+https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc108buj2c)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208d7253200cdddbfa61401945dd3a:5e64a5470b1b402653b2a35f8a899d3c
+#EXTINF:-1 tvg-id="peacjnmp" tvg-name="CJ ENM PICKS" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",CJ ENM PICKS
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1140iamg)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00201afe2ce399852cd0c29a3c215ac8:f8e352189a5fc42e076e88c7be472426
+#EXTINF:-1 tvg-id="peacircle" tvg-name="Circle" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",Circle
+https://ctl.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc125fnbp0)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020a9dd35db0d63bc03e2d10bb46d58:a49b35665fee8b7e16eb366d8ef9c276
