@@ -1251,7 +1251,7 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc137ld1mh
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002029fcdaae2385eedf0fd9332c3c90:33b97956f316d0b65e9fd28888e7c7a9
-#EXTINF:-1 tvg-id="hallmarkdateline" tvg-name="Dateline 24/7" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",Dateline 24/7
+#EXTINF:-1 tvg-id="hallmarkdateline" tvg-name="Dateline 24/7" tvg-logo="https://i.imgur.com/jZA2e3v.png" group-title="🇺🇸 PEACOCK TV",Dateline 24/7
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc112xzr75)/master_2min.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1374,14 +1374,10 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(msnbc)/ma
 #EXTINF:-1 tvg-id="peashawkbox" tvg-name="Squawk Box" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",Squawk Box
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc108buj2c)/master.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00208d7253200cdddbfa61401945dd3a:5e64a5470b1b402653b2a35f8a899d3c
-#EXTINF:-1 tvg-id="peacjnmp" tvg-name="CJ ENM PICKS" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",CJ ENM PICKS
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1140iamg)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00201afe2ce399852cd0c29a3c215ac8:f8e352189a5fc42e076e88c7be472426
-#EXTINF:-1 tvg-id="peacircle" tvg-name="Circle Country" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",Circle Country
+#EXTINF:-1 tvg-id="peacircle" tvg-name="Circle Country" tvg-logo="https://i.imgur.com/fj2FiTr.png" group-title="🇺🇸 PEACOCK TV",Circle Country
 https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic/Content/CMAF_CTR-4s-v2/Live/channel(lc125fnbp0)/master_2hr.mpd?c3.ri=5003917636885262936&aws.sessionId=dce41a8a-a928-4b04-8238-3a8ec872fa06
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
