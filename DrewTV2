@@ -1302,7 +1302,7 @@ https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(lc124p
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002082bbeba36536625edbabc33308b9:0bd9923f10901ec2ab5d360ee4132663
 #EXTINF:-1 tvg-id="peadchicago" tvg-name="NBC Chicago News" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",NBC Chicago News
-https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(lc121nd4w6)/master.mpd
+https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic/Content/CMAF_CTR-4s-v2/Live/channel(lc121nd4w6)/master_2hr.mpd?c3.ri=5003636161910553856&aws.sessionId=dc39d9c0-04c7-4fe7-b96e-6435d513d83f
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045c783ec81e7b8b83d9fac6238fb0e:92b1b048dc1db8398bfd17c0f99ef9d0
