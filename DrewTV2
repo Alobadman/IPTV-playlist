@@ -1270,12 +1270,16 @@ https://cmcs.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knsd)/mas
 #EXTINF:-1 tvg-id="nbcwnbc" tvg-name="WNBC" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",WNBC
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wnbc)/master.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020a9dd35db0d63bc03e2d10bb46d58:a49b35665fee8b7e16eb366d8ef9c276
 #EXTINF:-1 tvg-id="pealx" tvg-name="LX" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",LX
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1051jtk0)/master.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"00452a9948df308f155feb8f560b0dd0":"0b4464c4dcb80b6167dbd319f8227977"}
+#EXTINF:-1 tvg-id="" tvg-name="NBC KING 5" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",NBC KING 5
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(king)/master.mpd?c3.ri=5005887962098569615
 
 
 
