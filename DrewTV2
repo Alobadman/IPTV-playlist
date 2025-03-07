@@ -1095,6 +1095,71 @@ http://143.44.136.110:6910/001/2/ch00000090990000001157/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="france24-2" tvg-name="FRANCE24 (CIG)" tvg-logo="https://i.imgur.com/oUqHgMc.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",FRANCE24 (CIG)
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_france24.mpd
 
+################################################################################ NBA #########################################################################
+
+#EXTINF:-1 group-logo="https://i.imgur.com/I1j73Nw.png"
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="nbaph11" tvg-name="NBA TV PH (CON)" tvg-logo="https://i.imgur.com/oUqHgMc.png" group-title="🏀 NBA LEAGUE PASS",NBA TV PH (CON)
+http://143.44.136.113:6910/001/2/ch00000090990000001064/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+#EXTINF:-1 tvg-id="nbaph12" tvg-name="NBA TV PH (CIG)" tvg-logo="https://i.imgur.com/oUqHgMc.png" group-title="🏀 NBA LEAGUE PASS",NBA TV PH (CIG)
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
+
+#EXTINF:-1 tvg-id="nbapass0-x1" tvg-name="NBA TV HD (US)" tvg-logo="https://i.imgur.com/FdPCM2U.png" group-title="🏀 NBA LEAGUE PASS",NBA TV HD (US)
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="xromtnteast" tvg-name="TNT EAST HD" tvg-logo="https://i.imgur.com/CO1gL73.png" group-title="🏀 NBA LEAGUE PASS",TNT EAST HD
+http://fl5.moveonjoy.com/TNT/index.m3u8
+
+#EXTINF:-1 tvg-id="xromabc-east" tvg-name="ABC EAST HD" tvg-logo="https://i.imgur.com/xVg9dWf.png" group-title="🏀 NBA LEAGUE PASS",ABC EAST HD
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="nbatvlive-01" tvg-name="NBA LIVE 01 HD" tvg-logo="https://i.imgur.com/urmZI4P.png" group-title="🏀 NBA LEAGUE PASS",NBA LIVE 01 HD
+http://fl5.moveonjoy.com/NBA_1/index.m3u8
+
+#EXTINF:-1 tvg-id="nbatvlive-02" tvg-name="NBA LIVE 02 HD" tvg-logo="https://i.imgur.com/urmZI4P.png" group-title="🏀 NBA LEAGUE PASS",NBA LIVE 02 HD
+http://fl5.moveonjoy.com/NBA_2/index.m3u8
+
+#EXTINF:-1 tvg-id="nbatvlive-03" tvg-name="NBA LIVE 03 HD" tvg-logo="https://i.imgur.com/urmZI4P.png" group-title="🏀 NBA LEAGUE PASS",NBA LIVE 03 HD
+http://fl5.moveonjoy.com/NBA_3/index.m3u8
+
+#EXTINF:-1 tvg-id="nbatvlive-04" tvg-name="NBA LIVE 04 HD" tvg-logo="https://i.imgur.com/urmZI4P.png" group-title="🏀 NBA LEAGUE PASS",NBA LIVE 04 HD
+http://fl5.moveonjoy.com/NBA_4/index.m3u8
+
+#EXTINF:-1 tvg-id="nbatvlive-05" tvg-name="NBA LIVE 05 HD" tvg-logo="https://i.imgur.com/urmZI4P.png" group-title="🏀 NBA LEAGUE PASS",NBA LIVE 05 HD
+http://fl5.moveonjoy.com/NBA_5/index.m3u8
+
+#EXTINF:-1 tvg-id="nbatvlive-06" tvg-name="NBA LIVE 06 HD" tvg-logo="https://i.imgur.com/urmZI4P.png" group-title="🏀 NBA LEAGUE PASS",NBA LIVE 06 HD
+http://fl5.moveonjoy.com/NBA_6/index.m3u8
+
+#EXTINF:-1 tvg-id="nbatvlive-07" tvg-name="NBA LIVE 07 HD" tvg-logo="https://i.imgur.com/urmZI4P.png" group-title="🏀 NBA LEAGUE PASS",NBA LIVE 07 HD
+http://fl5.moveonjoy.com/NBA_7/index.m3u8
+
+#EXTINF:-1 tvg-id="nbatvlive-08" tvg-name="NBA LIVE 08 HD" tvg-logo="https://i.imgur.com/urmZI4P.png" group-title="🏀 NBA LEAGUE PASS",NBA LIVE 08 HD
+http://fl5.moveonjoy.com/NBA_8/index.m3u8
+
+#EXTINF:-1 tvg-id="nbatvlive-09" tvg-name="NBA LIVE 09 HD" tvg-logo="https://i.imgur.com/urmZI4P.png" group-title="🏀 NBA LEAGUE PASS",NBA LIVE 09 HD
+http://fl5.moveonjoy.com/NBA_9/index.m3u8
+
+#EXTINF:-1 tvg-id="nbatvlive-10" tvg-name="NBA LIVE 10 HD" tvg-logo="https://i.imgur.com/urmZI4P.png" group-title="🏀 NBA LEAGUE PASS",NBA LIVE 10 HD
+http://fl5.moveonjoy.com/NBA_10/index.m3u8
+
+#EXTINF:-1 tvg-id="nbatvlive-11" tvg-name="NBA LIVE 11 HD" tvg-logo="https://i.imgur.com/urmZI4P.png" group-title="🏀 NBA LEAGUE PASS",NBA LIVE 11 HD
+http://fl5.moveonjoy.com/NBA_11/index.m3u8
+
+#EXTINF:-1 tvg-id="nbatvlive-12" tvg-name="NBA LIVE 12 HD" tvg-logo="https://i.imgur.com/urmZI4P.png" group-title="🏀 NBA LEAGUE PASS",NBA LIVE 12 HD
+http://fl5.moveonjoy.com/NBA_12/index.m3u8
+
+#EXTINF:-1 tvg-id="nbatvlive-13" tvg-name="NBA LIVE 13 HD" tvg-logo="https://i.imgur.com/urmZI4P.png" group-title="🏀 NBA LEAGUE PASS",NBA LIVE 13 HD
+http://fl5.moveonjoy.com/NBA_13/index.m3u8
+
+#EXTINF:-1 tvg-id="nbatvlive-14" tvg-name="NBA LIVE 14 HD" tvg-logo="https://i.imgur.com/urmZI4P.png" group-title="🏀 NBA LEAGUE PASS",NBA LIVE 14 HD
+http://fl5.moveonjoy.com/NBA_14/index.m3u8
+
 
 
 
