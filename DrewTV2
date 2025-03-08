@@ -1166,7 +1166,7 @@ http://fl5.moveonjoy.com/NBA_14/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-#EXTINF:-1 tvg-id="wwenetwhd" tvg-name="WWE Network" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",WWE Network
+#EXTINF:-1 tvg-id="wwenetwhd" tvg-name="WWE Network" tvg-logo="https://i.imgur.com/q5nVWm6.png" group-title="🇺🇸 PEACOCK TV",WWE Network
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1320,11 +1320,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc103ow4ej)/m
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 #EXTINF:-1 tvg-id="nbclosangeles" tvg-name="NBC - LOS ANGELES" tvg-logo="https://i.imgur.com/0Z77P0t.png" group-title="🇺🇸 PEACOCK TV",NBC - LOS ANGELES
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00458d2e45a6cfd1f210b93f3ced747e:7e0f295d6819bbd6c887c19b15ef4b64
-#EXTINF:-1 tvg-id="nbclxhome" tvg-name="NBC LX HOME" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",NBC LX HOME
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(lc1051jtk0)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00454fa0c7dc0328cda23d73a8ce1b5b:35566ad1ab8e50da15d639710c0dc5ca
