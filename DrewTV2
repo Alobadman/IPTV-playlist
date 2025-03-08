@@ -621,6 +621,35 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/smart_sdi9.mpd
 #EXTINF:-1 tvg-id="pl-sd197" tvg-name="PPV - SDI97" tvg-logo="https://i.imgur.com/rcQhwkd.png" group-title="🇵🇭 PILIPINAS LIVE",PPV - SDI97
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/ppvsd197.mpd
 
+############################################################### SMART STREAM #################################################################################################
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7b7dd5839a4e23be8f8058d6853069:6941cd2c3a559f3eed3cec560eff7b23
+#EXTINF:-1 tvg-id="smart-sdI5" tvg-name="SMART SDI5" tvg-logo="https://i.imgur.com/W7YelJ4.png" group-title="🇵🇭 PILIPINAS LIVE",SMART SDI5
+https://cignal.seesie.workers.dev/smart-sdi-5
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f858648412b11edb8780242ac120002:9162cd7cee144bb4e717dbb6fe46567b
+#EXTINF:-1 tvg-id="smart-sdI6" tvg-name="SMART SDI6" tvg-logo="https://i.imgur.com/W7YelJ4.png" group-title="🇵🇭 PILIPINAS LIVE",SMART SDI6
+https://cignal.seesie.workers.dev/smart-sdi-6
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f873c2c412b11edb8780242ac120002:9c1f27adc2a2dd23ce415e8563c07af6
+#EXTINF:-1 tvg-id="smart-sdI7" tvg-name="SMART SDI7" tvg-logo="https://i.imgur.com/W7YelJ4.png" group-title="🇵🇭 PILIPINAS LIVE",SMART SDI7
+https://cignal.seesie.workers.dev/smart-sdi-7
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50ea84d79773464192071d6fc058cba1:0b1642e0a661a780e74835fe765e1319
+#EXTINF:-1 tvg-id="smart-sdI8" tvg-name="SMART SDI8" tvg-logo="https://i.imgur.com/W7YelJ4.png" group-title="🇵🇭 PILIPINAS LIVE",SMART SDI8
+https://cignal.seesie.workers.dev/smart-sdi-8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2a24c65b3734565af71a1c3a9bbbf69:552351880bd0eb97f85c8aeccd88ffa5
+#EXTINF:-1 tvg-id="smart-sdI9" tvg-name="SMART SDI9" tvg-logo="https://i.imgur.com/W7YelJ4.png" group-title="🇵🇭 PILIPINAS LIVE",SMART SDI9
+https://cignal.seesie.workers.dev/smart-sdi-9
+
+
+
 ############################################################### CIGNAL SPORTS #################################################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
