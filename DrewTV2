@@ -1226,7 +1226,7 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00207278b6ffcd0509d22d9cc88b0dbc:bfc50c28b15c2820b80e68a49ff26976
-#EXTINF:-1 tvg-id="nbcreelz" tvg-name="REELZ" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",REELZ
+#EXTINF:-1 tvg-id="nbcreelz" tvg-name="REELZ" tvg-logo="https://i.imgur.com/4tgZUZX.png" group-title="🇺🇸 PEACOCK TV",REELZ
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc136p5w66)/master_2min.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1370,20 +1370,15 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(cnbc)/mas
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(msnbc)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00169cb5cdac23b1782c021c8dee7452:7a3e6a4d9ad9bc5d31bb92b6d2931a8d
-#EXTINF:-1 tvg-id="" tvg-name="WOMEN-LED FAVORITES" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",LAW AND ORDER
-https://330c0a3e1c814f0e9e1bcbd8432e90ac.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-2s-generic/pub/global/Y6M/D55/GMO_00000000531876_01/PCK_1741303277357_1a29_01/mpeg_cenc/master_cmaf.mpd?c3.ri=5003073358149331880&aws.sessionId=d8ee3921-0543-4460-b7ea-10e0040754c1
+#KODIPROP:inputstream.adaptive.license_key=00208908ec8a9e825da84e452eeaf5c5:6e08fee4b73c0ba921a5a48616b03992
+#EXTINF:-1 tvg-id="" tvg-name="LAW AND CRIME" tvg-logo="https://i.imgur.com/oQvCvOo.png" group-title="🇺🇸 PEACOCK TV",LAW AND CRIME
+https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic/Content/CMAF_CTR-4s-v2/Live/channel(lc1349acq4)/master_2hr.mpd?c3.ri=5004762208154325725&aws.sessionId=b3e4d9d5-6e4d-4eb6-9dc5-958a50e35dc6
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00201afe2ce399852cd0c29a3c215ac8:f8e352189a5fc42e076e88c7be472426
 #EXTINF:-1 tvg-id="peacircle" tvg-name="Circle Country" tvg-logo="https://i.imgur.com/fj2FiTr.png" group-title="🇺🇸 PEACOCK TV",Circle Country
 https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic/Content/CMAF_CTR-4s-v2/Live/channel(lc125fnbp0)/master_2hr.mpd?c3.ri=5003917636885262936&aws.sessionId=dce41a8a-a928-4b04-8238-3a8ec872fa06
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00169206b076426adbb4b3c47be89ce9:963ceefc7aa843b944b758ecc7b78661
-#EXTINF:-1 tvg-id="" tvg-name="BINGE THIS WEEK" tvg-logo="https://i.imgur.com/1ZbJsBW.png" group-title="🇺🇸 PEACOCK TV",BINGE THIS WEEK
-https://330c0a3e1c814f0e9e1bcbd8432e90ac.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-2s-generic/pub/global/7Ot/sYe/GMO_00000000494230_01/PCK_1721255972898_c7d4_01/mpeg_cenc/master_cmaf.mpd?c3.ri=5003354833111354806&aws.sessionId=1fcaef98-53c6-4bcc-afe8-18af34c68d8a
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
