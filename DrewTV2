@@ -1365,9 +1365,9 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wnbc)/mas
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(cnbc)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7fbd8a75e83336cdaba616c677f3bae9:936b15f1bfeb31c581d16ab2ab83cd65
-#EXTINF:-1 tvg-id="nbcmsnbc" tvg-name="MSNBC" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",MSNBC
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(msnbc)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=c660273ed5543874a2230ffcce7c3720:85e7d263639a5b6b00fb8c1a1fd9798d
+#EXTINF:-1 tvg-id="nbcmsnbc" tvg-name="MSNBC" tvg-logo="https://i.imgur.com/ak8EJP5.png" group-title="🇺🇸 PEACOCK TV",MSNBC
+https://cd71891d94494d13b6b2adab650716f6.mediatailor.us-west-2.amazonaws.com/v1/dash/7f34bf1814de6fddce84b1e6c296b7a70243b88f/nbcnews-atp-dash-linear-4s-generic/Content/CMAF_OL1-CTR-4s/Live/channel(msnbc)/master.mpd?aws.sessionId=7e7b1d92-2610-4457-86c6-c5b3e639ad36
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208908ec8a9e825da84e452eeaf5c5:6e08fee4b73c0ba921a5a48616b03992
