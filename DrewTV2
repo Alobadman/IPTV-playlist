@@ -1331,7 +1331,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc103ow4ej)/m
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-#EXTINF:-1 tvg-id="nbclosangeles" tvg-name="NBC - LOS ANGELES" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",NBC - LOS ANGELES
+#EXTINF:-1 tvg-id="nbclosangeles" tvg-name="NBC - LOS ANGELES" tvg-logo="https://i.imgur.com/0Z77P0t.png" group-title="🇺🇸 PEACOCK TV",NBC - LOS ANGELES
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
