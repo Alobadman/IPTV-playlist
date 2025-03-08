@@ -1359,10 +1359,8 @@ https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="nbcwnbc" tvg-name="WNBC" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",WNBC
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wnbc)/master.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c54b3a11ae48391eb91c7832c207fe46:75f9cafc4c9c02eacb067e802669cbf4
-#EXTINF:-1 tvg-id="nbccnbc" tvg-name="CNBC" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",CNBC
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(cnbc)/master.mpd
+#EXTINF:-1 tvg-id="nbccnbc" tvg-name="CNBC" tvg-logo="https://i.imgur.com/hJYEaae.png" group-title="🇺🇸 PEACOCK TV",CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c660273ed5543874a2230ffcce7c3720:85e7d263639a5b6b00fb8c1a1fd9798d
