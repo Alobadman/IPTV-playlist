@@ -1312,7 +1312,7 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1126fksa)/m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045e311cbff64b1212d82868f16dcfe:91379de940442eed91ef3a78ebda0af6
 #EXTINF:-1 tvg-id="peaboston" tvg-name="NBC Boston News" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",NBC Boston News
-https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(lc108c4guk)/master.mpd
+https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic/Content/CMAF_CTR-4s-v2/Live/channel(lc136p5w66)/master_2hr.mpd?c3.ri=5005606633071852324&aws.sessionId=fa147be2-f3ef-4ba6-9831-0e122fc4946d
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=004548f067c8d06e670cd1f68585b4e2:67107d7e744104deacb7507fa5001a8c
@@ -1370,9 +1370,9 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(cnbc)/mas
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(msnbc)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020389eb7247c1460b7e659d8dee552:76f43fa9d6eaae748b8adf6ae53ce75a
-#EXTINF:-1 tvg-id="peashawkbox" tvg-name="Squawk Box" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",Squawk Box
-https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc108buj2c)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=00169cb5cdac23b1782c021c8dee7452:7a3e6a4d9ad9bc5d31bb92b6d2931a8d
+#EXTINF:-1 tvg-id="" tvg-name="WOMEN-LED FAVORITES" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",LAW AND ORDER
+https://330c0a3e1c814f0e9e1bcbd8432e90ac.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-2s-generic/pub/global/Y6M/D55/GMO_00000000531876_01/PCK_1741303277357_1a29_01/mpeg_cenc/master_cmaf.mpd?c3.ri=5003073358149331880&aws.sessionId=d8ee3921-0543-4460-b7ea-10e0040754c1
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
