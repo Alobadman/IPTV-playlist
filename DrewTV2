@@ -1350,9 +1350,9 @@ https://cmcs.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wcau)/mas
 https://cmcs.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knsd)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d3fef8ce2f593af0a29f6e4a522c6555:7fe0a488fb26afaba05049eead0eb24e
-#EXTINF:-1 tvg-id="nbcnewsnow" tvg-name="NEWS NOW" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",NEWS NOW
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(nnn)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=002068abf577c8d929c7f9954381d2c7:0b867154899ea5f9e0175cc0a3c794cc
+#EXTINF:-1 tvg-id="nbcnewsnow" tvg-name="NBC NEWS NOW" tvg-logo="https://i.imgur.com/X7Fns97.png" group-title="🇺🇸 PEACOCK TV",NBC NEWS NOW
+https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic/Content/CMAF_CTR-4s-v2/Live/channel(lc102s5icf)/master_2hr.mpd?c3.ri=5002791883040489591&aws.sessionId=c0cb9e80-344a-46bf-9ecd-4b3f1fc58ec0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=004561b5440b7879d37d01c99a158924:8fb0218456fedf3c8a3da8c88f6177c7
@@ -1381,9 +1381,9 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc108buj2c)/m
 https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic/Content/CMAF_CTR-4s-v2/Live/channel(lc125fnbp0)/master_2hr.mpd?c3.ri=5003917636885262936&aws.sessionId=dce41a8a-a928-4b04-8238-3a8ec872fa06
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020a9dd35db0d63bc03e2d10bb46d58:a49b35665fee8b7e16eb366d8ef9c276
-#EXTINF:-1 tvg-id="pealx" tvg-name="LX" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",LX
-https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1051jtk0)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=00169206b076426adbb4b3c47be89ce9:963ceefc7aa843b944b758ecc7b78661
+#EXTINF:-1 tvg-id="" tvg-name="BINGE THIS WEEK" tvg-logo="https://i.imgur.com/1ZbJsBW.png" group-title="🇺🇸 PEACOCK TV",BINGE THIS WEEK
+https://330c0a3e1c814f0e9e1bcbd8432e90ac.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-vod-2s-generic/pub/global/7Ot/sYe/GMO_00000000494230_01/PCK_1721255972898_c7d4_01/mpeg_cenc/master_cmaf.mpd?c3.ri=5003354833111354806&aws.sessionId=1fcaef98-53c6-4bcc-afe8-18af34c68d8a
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
