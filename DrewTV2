@@ -1356,7 +1356,7 @@ https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=004561b5440b7879d37d01c99a158924:8fb0218456fedf3c8a3da8c88f6177c7
-#EXTINF:-1 tvg-id="nbcwnbc" tvg-name="WNBC" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",WNBC
+#EXTINF:-1 tvg-id="nbcwnbc" tvg-name="WNBC" tvg-logo="https://i.imgur.com/0Z77P0t.png" group-title="🇺🇸 PEACOCK TV",WNBC
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wnbc)/master.mpd
 
 #EXTINF:-1 tvg-id="nbccnbc" tvg-name="CNBC" tvg-logo="https://i.imgur.com/hJYEaae.png" group-title="🇺🇸 PEACOCK TV",CNBC
