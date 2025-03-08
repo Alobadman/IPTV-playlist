@@ -1312,7 +1312,7 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc1126fksa)/m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045e311cbff64b1212d82868f16dcfe:91379de940442eed91ef3a78ebda0af6
 #EXTINF:-1 tvg-id="peaboston" tvg-name="NBC Boston News" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="🇺🇸 PEACOCK TV",NBC Boston News
-https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic/Content/CMAF_CTR-4s-v2/Live/channel(lc136p5w66)/master_2hr.mpd?c3.ri=5005606633071852324&aws.sessionId=fa147be2-f3ef-4ba6-9831-0e122fc4946d
+https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic/Content/CMAF_CTR-4s-v2/Live/channel(lc108c4guk)/master_2hr.mpd?c3.ri=5004199258049892380&aws.sessionId=542f279b-cb55-4b37-8309-cbca8390f9ce
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=004548f067c8d06e670cd1f68585b4e2:67107d7e744104deacb7507fa5001a8c
