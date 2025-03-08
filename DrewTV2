@@ -1386,6 +1386,13 @@ https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="NBC KING 5" tvg-logo="https://i.imgur.com/Ytrnz9X.png" group-title="🇺🇸 PEACOCK TV",KING 5
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(king)/master.mpd?c3.ri=5005887962098569615
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020a5d68dee53a89a127355a14a68ce:9d68d133e940e61656b051a6ac260201
+#EXTINF:-1 tvg-id="" tvg-name="NBC Los Angeles News" tvg-logo="https://i.imgur.com/dHtXQMD.png" group-title="🇺🇸 PEACOCK TV",NBC Los Angeles News
+https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic/Content/CMAF_CTR-4s-v2/Live/channel(lc116wxfpw)/master_2hr.mpd?c3.ri=5003354833111438737&aws.sessionId=b098f0ac-bc8f-4bf2-8590-71ec1cde2fe0
+
+
+
 
 
 
