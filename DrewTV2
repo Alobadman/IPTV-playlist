@@ -1406,10 +1406,10 @@ https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/
 
 ###################################################### PREMIUM SPORTS ##########################################################################################
 
-#EXTINF:-1 group-title="⚽ SPORTS FHD" group-logo="https://i.imgur.com/3SyMF1E.png"
+#EXTINF:-1 group-logo="https://i.imgur.com/3SyMF1E.png"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="https://get.perfecttv.net/logo/dazn1.png",816 Dazn 1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ PREMIUM SPORTS" tvg-logo="https://get.perfecttv.net/logo/dazn1.png",816 Dazn 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1417,14 +1417,14 @@ https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/
 https://get.perfecttv.net/dash.mpd?username=perfecttv&password=perfecttv&channel=dazn1
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/dazn2.png",816 Dazn 2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ PREMIUM SPORTS" tvg-logo="https://get.perfecttv.net/logo/dazn2.png",816 Dazn 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://get.perfecttv.net/dash.mpd?username=perfecttv&password=perfecttv&channel=dazn2
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="https://get.perfecttv.net/logo/daznlaliga.png",816 Dazn Laliga
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ PREMIUM SPORTS" tvg-logo="https://get.perfecttv.net/logo/daznlaliga.png",816 Dazn Laliga
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
