@@ -1404,6 +1404,34 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(king)/mas
 https://50dc2d36ca9b4c429b46414fc18dac8f.mediatailor.us-west-2.amazonaws.com/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-linear-4s-generic/Content/CMAF_CTR-4s-v2/Live/channel(lc116wxfpw)/master_2hr.mpd?c3.ri=5003354833111438737&aws.sessionId=b098f0ac-bc8f-4bf2-8590-71ec1cde2fe0
 
 
+###################################################### PREMIUM SPORTS ##########################################################################################
+
+#EXTINF:-1 group-title="⚽ SPORTS FHD" group-logo="https://i.imgur.com/3SyMF1E.png"
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="https://get.perfecttv.net/logo/dazn1.png",816 Dazn 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://get.perfecttv.net/dash.mpd?username=perfecttv&password=perfecttv&channel=dazn1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/dazn2.png",816 Dazn 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://get.perfecttv.net/dash.mpd?username=perfecttv&password=perfecttv&channel=dazn2
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="https://get.perfecttv.net/logo/daznlaliga.png",816 Dazn Laliga
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://get.perfecttv.net/dash.mpd?username=perfecttv&password=perfecttv&channel=daznlaliga
+
+
 
 
 
